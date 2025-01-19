@@ -42,6 +42,9 @@ The script defines a list of IP addresses to ping. It then uses a function to op
 3. **Monitor the Pings:**
    - Each IP address in the list will be pinged in a new command prompt window.
    - The results of each ping session will be logged to a file named `PingLog_<IP>.txt` in the script's directory.
+     
+## Demo
+https://youtu.be/fCBXeoWvCdw
 
 ## Script
 
